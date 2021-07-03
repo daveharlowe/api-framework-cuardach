@@ -67,7 +67,7 @@ public class apiRoomTests {
 
 	}
 
-	
+	// Test to retrieve all the details of rooms setup on the "room" microservice.
 	@Test
 	public void getRoomDetails_10001()
 	{   
