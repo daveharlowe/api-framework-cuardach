@@ -1,7 +1,7 @@
 README.MD 
 
-# Deployment notes
+## Deployment notes
 
-# Staging notes
+## Staging notes
 
-# How to use this repo notes
+## How to use this repo notes
